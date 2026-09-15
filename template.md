@@ -41,7 +41,7 @@
 ## Media
 
 ### Primary Image
-<img src="images/[ID]-front.jpeg" width="300">
+<img src="../images/[ID]-front.jpeg" width="300">
 
 ### Additional Images
 - [ID]-side.jpeg  
