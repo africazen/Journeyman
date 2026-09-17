@@ -1,3 +1,4 @@
+---
 # Stan Lifschitz Collection
 
 *Southern African Ethnographic & Ritual Art Catalogue*
