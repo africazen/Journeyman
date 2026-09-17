@@ -1,4 +1,7 @@
-# Objects, Histories, and Living Traditions of Southern Africa
+---
+layout: page
+title: Stan Lifschitz Collection
+---
 
 Welcome to the digital archive of the **Stan Lifschitz Collection**.
 
