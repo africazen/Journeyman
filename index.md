@@ -1,6 +1,3 @@
----
-# Stan Lifschitz Collection
-
 *Southern African Ethnographic & Ritual Art Catalogue*
 
 Welcome to the official digital index of the **Stan Lifschitz Collection**, a curated body of ethnographic artworks, ritual objects, and cultural artefacts originating from diverse **Southern African ethnic groups**.
@@ -79,4 +76,67 @@ Prioritising artefacts with verifiable cultural use, historical relevance, and d
 
 ### Cultural Respect
 
-Preserving the integrity, meaning, and heritage of every object within
+Preserving the integrity, meaning, and heritage of every object within its original cultural context.
+
+### Documentation
+
+Maintaining detailed records, research notes, and photographic archives to support academic study and public understanding.
+
+### Preservation
+
+Ensuring the long-term care and conservation of fragile wooden, pigment-based, textile, and organic materials.
+
+This catalogue seeks to make the collection accessible to scholars, museums, collectors, and enthusiasts while honouring the communities and traditions from which these objects originate.
+
+---
+
+## Image Archive
+
+High-resolution images accompany each artefact entry and form an important component of the collection's documentation.
+
+For complete visual records, please browse the **Media** section associated with each catalogue page.
+
+---
+
+## Keywords & Research Themes
+
+- Ritual
+- Healing
+- Ceremonial
+- Ancestral Traditions
+- Southern African Ethnography
+- Woodcarving Traditions
+- Scarification Motifs
+- Shamanic Practices
+- Cultural Heritage
+- Indigenous Knowledge Systems
+- Material Culture
+- Museum Studies
+
+---
+
+## Research & Educational Value
+
+The collection serves as a reference resource for:
+
+- Cultural historians
+- Anthropologists
+- Ethnographic researchers
+- Museum professionals
+- Art historians
+- Collectors of African art
+- Students of material culture
+
+By bringing together documented artefacts from multiple Southern African communities, the catalogue supports broader research into regional artistic traditions, ritual practices, and cultural identity.
+
+---
+
+## Contact & Contributions
+
+Researchers, curators, museums, and cultural historians are invited to contribute insights, references, comparative material, or additional provenance information.
+
+For collaboration, corrections, or research enquiries, please use the repository's issue tracker or designated contact channels.
+
+---
+
+*Preserving Cultural Heritage Through Documentation, Research, and Respectful Stewardship.*
