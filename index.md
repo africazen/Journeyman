@@ -1,4 +1,4 @@
-# Objects, Histories, and Living Traditions of Southern Africa*
+# Objects, Histories, and Living Traditions of Southern Africa
 
 Welcome to the digital archive of the **Stan Lifschitz Collection**.
 

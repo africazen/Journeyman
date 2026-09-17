@@ -1,4 +1,4 @@
-# Artefact Catalogue
+# StanPan Collection
 
 A growing digital catalogue of African ritual, ceremonial, and cultural artefacts.  
 Each artefact is documented in its own Markdown file and paired with one or more images stored in the repository.  
