@@ -41,8 +41,8 @@
 ## Media
 
 ### Primary Image
-<img src="../images/TS-SA-044-front.jpeg"" width="300">
-<img src="../images/TS-SA-044-side.jpeg"" width="300">
+<img src="../images/TS-SA-044-front.jpeg" width="300">
+<img src="../images/TS-SA-044-side.jpeg" width="300">
 
 
 ### Additional Images
