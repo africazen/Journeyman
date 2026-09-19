@@ -23,6 +23,8 @@ Many of the objects represented here were encountered through direct participati
 
 ## Beyond Art
 
+My personal pursuit of healing, in both the most intimate and the broadest sense, has been a guiding theme throughout my life. It has shaped not only my experiences but also the direction of my collecting practice. This search for healing led me to engage with Sangomas, Nyangas, and other traditional healers whose knowledge and practices have profoundly influenced my understanding of the world. These encounters have become an important part of my life story, and their impact is reflected in the collection itself, which continues to be informed by ideas of care, restoration, and healing.
+
 The collection is the recognition that many objects commonly displayed as "art" in Western collections were not originally created as art in the modern sense.
 
 They served practical, ceremonial, spiritual, medicinal, educational, or social functions. Their significance emerged through use and participation. Understanding these functions is essential to understanding the objects themselves.
