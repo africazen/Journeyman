@@ -1,6 +1,8 @@
-# Kneeling Sangoma Figure  
+---
+layout: page
+title: Kneeling Sangoma Figure 
+---
 **Catalogue ID:** TS-SA-044
-
 ---
 
 ## Classification
