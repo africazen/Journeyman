@@ -7,7 +7,7 @@ Welcome to the digital archive of the **Stan Lifschitz Collection**.
 
 This collection is not simply a catalogue of African artefacts. It represents decades of personal engagement with the communities, traditions, ceremonies, and cultural histories that shaped the objects presented here.
 
-Throughout the 1970s, 1980s, and beyond, Stan Lifschitz travelled extensively across Southern Africa, spending time with communities whose material culture reflected deeply rooted systems of identity, spirituality, healing, initiation, and social life. The objects documented in this archive were never viewed merely as artworks. They were encountered as living cultural expressions embedded within the daily lives and ceremonial practices of the people who created and used them.
+Throughout the 1970s, 1980s, and beyond, Stan Lifschitz travelled intensely across certain areas within Southern Africa in particular, spending time with communities whose material culture reflected deeply rooted systems of identity, spirituality, healing, initiation, and social life. The objects documented in this archive were never viewed merely as artworks. They were encountered as living cultural expressions embedded within the daily lives and ceremonial practices of the people who created and used them.
 
 ---
 
@@ -15,7 +15,7 @@ Throughout the 1970s, 1980s, and beyond, Stan Lifschitz travelled extensively ac
 
 The collection reflects a lifelong curiosity about how people express meaning through objects.
 
-For Stan, understanding an artefact begins with understanding its context: who used it, when it was used, why it was made, and what role it played within the community. A mask, apron, staff, figure, or beadwork panel cannot be separated from the ceremonies, relationships, beliefs, and histories that gave it purpose.
+Understanding an artefact begins with understanding its context: who used it, when it was used, why it was made, and what role it played within the community. A mask, apron, staff, figure, or beadwork panel cannot be separated from the ceremonies, relationships, beliefs, and histories that gave it purpose.
 
 Many of the objects represented here were encountered through direct participation in community gatherings, ceremonies, initiation events, and cultural practices across Southern Africa. These experiences shaped a perspective that values cultural understanding over ownership and documentation over acquisition.
 
@@ -23,11 +23,9 @@ Many of the objects represented here were encountered through direct participati
 
 ## Beyond Art
 
-A recurring theme throughout the collection is the recognition that many objects commonly displayed as "art" in Western collections were not originally created as art in the modern sense.
+The collection is the recognition that many objects commonly displayed as "art" in Western collections were not originally created as art in the modern sense.
 
 They served practical, ceremonial, spiritual, medicinal, educational, or social functions. Their significance emerged through use and participation. Understanding these functions is essential to understanding the objects themselves.
-
-This archive therefore approaches each piece as a cultural artefact first and an aesthetic object second.
 
 ---
 
@@ -46,7 +44,7 @@ The archive also references broader African influences and cultural connections 
 
 ---
 
-## The Ndebele Experience
+## The Ndebele
 
 A significant portion of the collection reflects Stan's long-standing relationship with Ndebele communities in South Africa.
 
